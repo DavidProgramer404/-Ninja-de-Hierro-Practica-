@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Escritorio\csharp console\Ninja de hierro\bin\Debug\net7.0\Ninja de hierro.exe
+C:\Users\david\OneDrive\Escritorio\csharp console\Ninja de hierro\bin\Debug\net7.0\Ninja de hierro.deps.json
+C:\Users\david\OneDrive\Escritorio\csharp console\Ninja de hierro\bin\Debug\net7.0\Ninja de hierro.runtimeconfig.json
+C:\Users\david\OneDrive\Escritorio\csharp console\Ninja de hierro\bin\Debug\net7.0\Ninja de hierro.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\Ninja de hierro\bin\Debug\net7.0\Ninja de hierro.pdb
+C:\Users\david\OneDrive\Escritorio\csharp console\Ninja de hierro\obj\Debug\net7.0\Ninja de hierro.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Ninja de hierro\obj\Debug\net7.0\Ninja de hierro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Escritorio\csharp console\Ninja de hierro\obj\Debug\net7.0\Ninja de hierro.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Ninja de hierro\obj\Debug\net7.0\Ninja de hierro.AssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\csharp console\Ninja de hierro\obj\Debug\net7.0\Ninja de hierro.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Ninja de hierro\obj\Debug\net7.0\Ninja de hierro.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\Ninja de hierro\obj\Debug\net7.0\refint\Ninja de hierro.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\Ninja de hierro\obj\Debug\net7.0\Ninja de hierro.pdb
+C:\Users\david\OneDrive\Escritorio\csharp console\Ninja de hierro\obj\Debug\net7.0\Ninja de hierro.genruntimeconfig.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Ninja de hierro\obj\Debug\net7.0\ref\Ninja de hierro.dll
